@@ -41,3 +41,7 @@ __pycache__/
 
 # Local Berry scripts (uploaded to the device, not part of the firmware)
 /Berry/
+
+# nix build output symlinks
+/result
+/result-*
